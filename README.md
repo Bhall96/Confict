@@ -1,0 +1,2 @@
+# Confict
+git conflict demonstration
